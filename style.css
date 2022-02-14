@@ -17,7 +17,7 @@ color: pink;
   font-size: 20px;
   color:white;
 }
-canvas {
+canvas,video{
     border: 10px solid white;
     border-radius: 20px;
     animation:Example 3s infinite;
