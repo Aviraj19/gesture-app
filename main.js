@@ -27,8 +27,8 @@ function gotposes(results) {
     }
 }
 function draw() {
-    background("gray")
-    fill("red")
-    square(nosex,nosey,difference)
-    document.getElementById("sqauresides").innerHTML="length of the square is"+ difference
+    background("gray");
+    fill("red");
+    square(nosex,nosey,difference);
+    document.getElementById("squaresides").innerHTML="length of the square is "+ difference;
 }
